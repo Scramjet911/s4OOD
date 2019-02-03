@@ -5,6 +5,7 @@ import java.util.*;
 public class ShashankMenon_56 {
     public static void main(String[] args) {
         int n;
+        System.out.println("Enter The Number of Rows of the Diamond : ");
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
         int i = 0, j = 0, k = 0;
