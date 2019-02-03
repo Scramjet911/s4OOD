@@ -2,7 +2,7 @@ import java.io.*;
 
 import java.util.*;
 
-public class Pattern {
+public class ShashankMenon_56 {
     public static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
